@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644017517 source:c:\users\ziark\desktop\academia\particular\manu\starwars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"headers.h"
+
+1644017528 c:\users\ziark\desktop\academia\particular\manu\starwars\headers.h
+
